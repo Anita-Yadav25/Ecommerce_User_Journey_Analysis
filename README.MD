@@ -6,9 +6,6 @@
 
 Why do customers browse an e-commerce website, add products to their carts, and proceed to checkout but leave without completing their purchases?
 
-This project analyzes customer interactions across different stages of the e-commerce shopping journey to understand user behaviour, identify conversion bottlenecks, and uncover opportunities for business growth.
-
-Using event-level behavioural data, the analysis evaluates customer progression through the conversion funnel, examines marketing channel effectiveness, compares device and regional performance, and investigates revenue contribution across product categories.
 
 **The objective is to transform raw customer interaction data into actionable business insights that help improve conversion rates and optimize the customer experience.**
 
@@ -58,7 +55,7 @@ The project uses an event-level e-commerce dataset containing customer interacti
 | Revenue | Revenue generated from purchases |
 | Bonus Flag | Bonus indicator associated with the event |
 
-## 🔄 Customer Journey & Conversion Funnel
+## Customer Journey & Conversion Funnel
 
 The analysis tracks customer progression through four key stages:
 
@@ -90,7 +87,6 @@ The analysis tracks customer progression through four key stages:
 | Total Purchases | 1,004 |
 | Average Revenue per Purchase | 276.22 |
 
-*Revenue figures are presented in the dataset's original currency units.*
 
 ## 🔍 Analytical Approach
 
@@ -166,53 +162,6 @@ The analysis aims to develop data-backed recommendations around:
 - **Regional Strategy:** Evaluate regional differences to support targeted marketing initiatives.
 - **Product Strategy:** Identify high-performing categories and opportunities to improve category-level performance.
 
-## 📂 Repository Structure
-
-```text
-user-journey-and-funnel-analysis/
-│
-├── Dataset/
-│   └── Funnel_Analysis_Dataset.csv
-│
-├── SQL/
-│   └── funnel_analysis.sql
-│
-├── Python/
-│   └── funnel_analysis_eda.ipynb
-│
-├── PowerBI/
-│   └── funnel_analysis_dashboard.pbix
-│
-├── Dashboard/
-│   └── dashboard_preview.png
-│
-└── README.md
-```
-
-## 🎓 Key Learning Outcomes
-
-- Analyzing event-level customer behaviour.
-- Understanding e-commerce conversion funnels.
-- Applying SQL to solve business problems.
-- Performing exploratory data analysis using Python.
-- Developing business KPIs and interactive Power BI dashboards.
-- Translating data findings into actionable recommendations.
-
-## 👩‍💻 About Me
-
-**Anita Yadav | Aspiring Data Analyst**
-
-I bring 6 years and 11 months of professional experience across Quality Assurance, Operations, and Language Analytics.
-
-My professional background has helped me develop strong analytical thinking, attention to detail, data validation, quality monitoring, and problem-solving skills.
-
-I am transitioning into Data Analytics, building practical expertise in SQL, Python, Excel, and Power BI, with a particular interest in E-commerce Analytics, Customer Behaviour, and Growth Analytics.
-
-**Technical Skills:** SQL | Python | Pandas | Excel | Power BI | DAX
-
-**Areas of Interest:** E-commerce Analytics | Growth Analytics | Marketing Analytics | Customer Behaviour Analysis
-
----
 
 ⭐ If you find this project interesting, feel free to explore the repository and connect with me on LinkedIn.
 
